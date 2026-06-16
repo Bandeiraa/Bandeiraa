@@ -2,22 +2,27 @@
 
 # Olá, eu sou Davi Bandeira!
 
-<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Jogos;Especialista+em+Godot+Engine;Criador+de+conteúdo+sobre+GDScript" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Jogos;Especialista+em+Godot+Engine;Criador+de+conteudo+sobre+GDScript" alt="Desenvolvedor de Jogos | Especialista em Godot Engine" />
+</p>
 
-<a href="https://www.youtube.com/@TinyLoomStudio" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/YouTube-@TinyLoomStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.udemy.com/user/davi-bandeira-2/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Udemy-Cursos-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
-</a>
-<a href="https://www.linkedin.com/in/davi-bandeira-056055200/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Davi%20Bandeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:tinyloomstudio@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tinyloomstudio%40gmail.com-6272A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/@TinyLoomStudio" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-@TinyLoomStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://www.udemy.com/user/davi-bandeira-2/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Udemy-Cursos-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/davi-bandeira-056055200/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Davi%20Bandeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tinyloomstudio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tinyloomstudio%40gmail.com-6272A4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -46,18 +51,13 @@ Desenvolvedor de jogos especializado na **Godot Game Engine**, com foco em **GDS
 
 ### Estatísticas
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bandeiraa&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat" target="_blank" rel="noopener noreferrer">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bandeiraa&layout=compact&langs_count=8&theme=dracula&hide_border=true&size_weight=1.0&count_weight=1.0" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bandeiraa&layout=compact&langs_count=8&theme=dracula&hide_border=true&size_weight=1.0&count_weight=1.0" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bandeiraa&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bandeiraa&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -65,15 +65,19 @@ Desenvolvedor de jogos especializado na **Godot Game Engine**, com foco em **GDS
 
 ### Algumas das minhas redes sociais
 
-<a href="https://www.youtube.com/@TinyLoomStudio" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/YouTube-@TinyLoomStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.udemy.com/user/davi-bandeira-2/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Udemy-Davi%20Bandeira-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
-</a>
-<a href="https://www.linkedin.com/in/davi-bandeira-056055200/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Davi%20Bandeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/@TinyLoomStudio" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-@TinyLoomStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://www.udemy.com/user/davi-bandeira-2/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Udemy-Davi%20Bandeira-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/davi-bandeira-056055200/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Davi%20Bandeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Bandeiraa&color=bd93f9&style=for-the-badge&label=Visitas+ao+perfil" alt="Profile views" />
 
