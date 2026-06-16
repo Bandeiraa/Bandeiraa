@@ -1,7 +1,4 @@
 <div align="center">
-
-# Olá, eu sou Davi Bandeira!
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Jogos;Especialista+em+Godot+Engine;Criador+de+conteudo+sobre+GDScript" alt="Desenvolvedor de Jogos | Especialista em Godot Engine" />
 </p>
